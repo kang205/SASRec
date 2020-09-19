@@ -8,6 +8,8 @@ Please cite our paper if you use the code or datasets.
 
 The code is tested under a Linux desktop (w/ GTX 1080 Ti GPU) with TensorFlow 1.12 and Python 2.
 
+Refer to *[here](https://github.com/pmixer/SASRec.pytorch)* for PyTorch implementation (thanks to pmixer).
+
 ## Datasets
 
 The preprocessed datasets are included in the repo (`e.g. data/Video.txt`), where each line contains an `user id` and 
